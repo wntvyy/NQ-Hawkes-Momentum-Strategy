@@ -1,3 +1,8 @@
+# Backtest Results
+
+![Equity Curve](results/1_equity_curve.png)
+![Buy & Hold Comparison](results/2_vs_buyhold.png)
+
 # Inspiration
 Strategy components adapted from:
 
