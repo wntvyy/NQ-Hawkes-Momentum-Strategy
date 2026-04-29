@@ -1,12 +1,3 @@
-"""
-NQ Futures Relative-Strength + Hawkes Timing Backtest
-=====================================================
-Trades NQ only. Uses YM/ES/NQ cross-asset features for relative strength.
-Hawkes self-exciting process for regime timing. RTH-only entries.
-Volatility-scaled position sizing.
-
-Execution: event-driven, next-bar-open fills, one position at a time.
-"""
 
 import warnings
 warnings.filterwarnings("ignore")
